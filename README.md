@@ -1,0 +1,1 @@
+# jquery_magnifier_plugin
